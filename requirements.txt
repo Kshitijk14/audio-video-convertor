@@ -2,3 +2,4 @@ pytube
 pydub
 ffmpeg
 customtkinter
+pyinstaller
