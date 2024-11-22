@@ -4,3 +4,4 @@ ffmpeg
 customtkinter
 pyinstaller
 yt-dlp
+Flask
